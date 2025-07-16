@@ -1,0 +1,46 @@
+{
+  "name": "react-component-graphify",
+  "version": "1.0.0",
+  "description": "A visual CLI tool to explore and trace React component structures.",
+  "keywords": [
+    "react",
+    "visualize",
+    "import",
+    "map",
+    "component",
+    "graph",
+    "trace",
+    "explore",
+    "cli",
+    "tool",
+    "visualisation",
+    "componentgraphify",
+    "graphify"
+  ],
+  "homepage": "https://github.com/WRATH2002/react-component-graphify#readme",
+  "bugs": {
+    "url": "https://github.com/WRATH2002/react-component-graphify/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WRATH2002/react-component-graphify.git"
+  },
+  "license": "MIT",
+  "author": "Himadri Purkait",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "component-graphify": "bin/cli.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "fs-extra": "^11.3.0",
+    "glob": "^10.4.5"
+  }
+}
