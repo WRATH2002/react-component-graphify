@@ -1,6 +1,6 @@
 {
   "name": "react-component-graphify",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A visual CLI tool to explore and trace React component structures.",
   "keywords": [
     "react",
